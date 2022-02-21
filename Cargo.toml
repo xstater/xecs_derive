@@ -2,6 +2,10 @@
 name = "xecs_derive"
 version = "0.5.0"
 edition = "2021"
+description = "Derive macro for xecs"
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/xstater/xecs_derive/"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
