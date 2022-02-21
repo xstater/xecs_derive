@@ -1,6 +1,6 @@
 [package]
 name = "xecs_derive"
-version = "0.5.0"
+version = "0.5.6"
 edition = "2021"
 description = "Derive macro for xecs"
 license = "MIT"
